@@ -21,7 +21,7 @@
 
 **最后**
 
-访问 https://visiky.github.io/resume?user={user}&branch={branch}
+访问 [https://visiky.github.io/resume?user={user}&branch={branch}](https://github.com/sz30/resume)
 
 参数说明:
 
